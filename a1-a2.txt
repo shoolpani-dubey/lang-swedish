@@ -17,7 +17,7 @@ Hej! Vad heter du?
 Hey, What is your name?
 
 Anna: Hej, jag heter Anna. Vad heter du?
-Anna: Hey, i name is Anna. What is your name ?
+Anna: Hey, my name is Anna. What is your name ?
 
 Tomas: Hej, jag heter Tomas. Jag gillar din rosa
 skjorta!
@@ -39,7 +39,7 @@ Tomas: I come from USA but I live in Finland now.
 Class Notes
 
 Apr 15, 2026 | Grupp Höstanemon / YKI autumn
-Attendees: 
+Attendees:
 Intro
 Jag heter ____ - My name is ____
 Jag bor i Finland. - I live in Finland.
@@ -147,7 +147,7 @@ I have a question
 Maria köper mat på en affär.
 Maria shops food at an store.
 
-Maria: Hej, ursäkta, var ligger mjölk utan fett?
+Maria: Hej, ursäkta, var ligger(lies) mjölk utan fett?
 Maria: Hi , excuseme, where is milk without fat?
 
 Säljare: Den är slut. Men varför köper du vanlig mjölk?
@@ -204,7 +204,7 @@ Jag kan inte plugga mer!
 I can not study more.
 
 Sofia är 16 år gammal
-Sofia is 16 year old. 
+Sofia is 16 year old.
 
 Just nu pluggar hon matte
 Right now she is studying maths.
@@ -237,7 +237,7 @@ Mamma: Jag kan inte. Jag måste jobba.
 Mom: I can not. I have to work.
 
 Sofia: Jag vet inte vad jag ska göra!
-Sofia: I dont know what i shall do 
+Sofia: I dont know what i shall do
 
 Mamma: Oroa(worry) dig inte. Jag kan hjälpa dig att plugga. Du hinner(have time)!
 Mom: Dont you worry. I can help you to study. You have time.
@@ -260,9 +260,9 @@ There are all the presents that he want to get.
 Andreas och Lena läser listan
 Andreas and lena read the list.
 
-Min lista: en bil, en dator, en bok om programmering, ett par löpar-skor(running(löpning) shoes) för gymmet, 
+Min lista: en bil, en dator, en bok om programmering, ett par löpar-skor(running(löpning) shoes) för gymmet,
 en mobiltelefon, ett datorspel
-My list: a car, a computer, a book on programmering, a pair running shoes for gym, 
+My list: a car, a computer, a book on programmering, a pair running shoes for gym,
 a mobile, a computer game.
 
 End page 9
@@ -343,7 +343,7 @@ har inte så mycket erfarenhet. Jag vill lära mig mer och jobba i ett team.
 Maria: I am an engineer. I had a good rank at the university but do not have so much experience.
 I want to learn more and work in a team.
 
-Intervjuare: Hur skulle du beskriva dig själv?
+Intervjuare: Hur skulle du beskriva(describe) dig själv(self)?
 Interviewer: How will you describe your self.
 
 Maria: Jag är en motiverad och arbetsam person.
@@ -354,7 +354,7 @@ Interviewer: Ok, now shall we talk about your salary. our budget is between 4 an
 
 Maria: Det låter bra.
 Maria: That sounds good.
-
+=========================================================================================================1
 Fritid
 Leisure / Free time
 
@@ -403,3 +403,1372 @@ In the morning , I workout at the gym.
 End- 12
 ---------------------------------------
 Page 13
+Min dröm
+my dream
+
+Sara, 15 år:
+sara, 15 years old:
+
+Jag vill bli fotograf när jag blir stor
+I want to become photographer when i become big(i grow up).
+
+Jag är mycket intresserad av mode och smink så jag vill jobba på en modetidning som till exempel Vogue.
+i am much intersted in fashion and makeup so i want to work at a fashion magazine for example vogue.
+
+Min pappa är fotograf.
+my dad is a photographer.
+
+Jag ser upp till honom.
+i look up to him.
+
+Saras pappa, Peter, 45 år:
+saras father, peter 45 years old:
+
+Jag är trött på att jobba som fotograf.
+I am tired of working as a photographer.
+
+Nu vill jag prova(try) att vara(be) journalist
+Now i want to try to be journalist.
+
+Det är inte lätt(easy) att byta(change) jobb men jag ska riskera
+Its is not easy to change job but i will take risk.
+
+Just nu går jag en kurs i journalistik.
+Right now, I am doing a course in journalism.
+
+Där läser jag och skriver mycket.
+There i read and write a lot.
+
+Del 2
+Part 2
+
+En rolig film, ett roligt jobb
+a fun movie, a fun job.
+
+Maria och Nora bor i en liten stad och träffas på ett litet kafe
+Maria and Nora live in a small city and meet at a little cafe.
+
+Kafeet är fullt
+cafe is full.
+
+De pratar om livet och helgen
+They talk about life and weekend.
+
+Maria har en rolig plan.
+maria has a funnly plan.
+
+Maria: Peter och jag letar efter ett nytt hem. Peter vill gärna
+köpa en ny lägenhet i stan men jag tycker att ett charmigt hus
+på landet är bättre.
+Maria: Peter and I are looking for a new home. Peter would like to buy a new apartment in the city but
+I think that a charming house in country side is better.
+
+Nora: Jag hoppas att ni kan komma överens. Jag har ett stort
+problem på jobbet. Chefen är så sträng. Jag måste hitta ett
+roligt nytt jobb.
+Nora: I hope that you can come to aggrement. i have a big problem at job. boss is so strict. i must find a fun new job.
+
+Maria: Jag förstår. Du är kanske stressad. Vill du gå på bio
+med mig ikväll? Du mår alltid bättre
+efter en rolig film.
+Maria: I understand. you might be stressed. do you want to go to cinema with me in the evening? you always feel better after
+a fun movie.
+
+-------------------------------------------------
+Page 16
+Vilka fantastiska nyheter!
+What fantastic news.
+
+Sofia kommer hem från skolan. Hon har mycket bra nyheter
+om ett prov. Därför vill hon att mamma organiserar en fest.
+Sofia comes home from school. she has much good news about en exam. therefore she want that mamma organizes a party.
+
+Sofia: Mamma, jag klarade provet!
+Sofia: Mom, I passes the exam.
+
+Mamma: Vilka fantastiska nyheter! Du pluggade mycket. Jag
+är så stolt(proud) över dig.
+Mom: What fantastic news. You had studied much. I am so proud of you.
+
+Sofia: Vi pratade om att organisera en fest hemma efter
+provet. När ska vi ha festen?
+Sofia: We talked about organising a fest at home after exam. when shall we have the party?
+
+Mamma: Vi kan fira(celebrate) på fredag.
+Mom: Vi can celebrate on friday.
+
+Sofia: Jag ska skicka inbjudan till Sara!
+Sofia: I shall send invitation to Sara.
+
+Mamma: Jag kan ringa Saras mamma.
+Mom: I can call Saras mom.
+
+Sofia: Det låter bra. Tack!
+Sofia: that sounds good. thanks.
+
+Hur var det på
+festen?
+How was it at party.(How was the party)
+
+Sara kom till Sofias hus igår.
+Sara came to Sofias house yesterday.
+
+Hon köpte en present till Sofia
+She bought a present for sofia.
+
+Det var en bok som de tittade på förra veckan
+it was a book which they saw last week.
+
+Sofia ville ha
+boken men hon hade inte några pengar
+Sofia wanted to have the book but she did not have any money.
+
+Därför blev Sofia mycket glad när hon såg boken
+therefor sofia became much glad when she saw book.
+
+Hennes favoritförfattare skrev den.
+Her favourite author wrote it.
+
+På festen spelade de mycket bra musik och dansade
+At party they played very nice musik and danced.
+
+Sofias granne klagade på musiken men de gav henne lite tårta så hon lämnade.
+sofias neighbour complained about music but they geve her some cake so she left.
+
+Lite senare åt de en fin middag
+little later they ate a fine dinner.
+
+Sara gick hem klockan 8
+sara went home at 8 o clock.
+
+Hon sa att hon måste vakna tidigt
+she said that she must wake up early.
+
+Efter festen läste Sofia boken
+After party Sofia read the book.
+
+
+En lista på starka verb
+a list of strong verbs.
+
+är is
+vill want
+kan can
+säger say
+kommer come
+gör does
+går goes
+får has
+ger gives
+har has
+tar takes
+ser serves
+vet knows
+skriver writes
+äter eats
+dricker drinks
+sover sleeps
+blir becomes
+
+----------------------------------------------------------------------------
+page 18
+var were
+ville wanted
+kunde could
+sa said
+kom came
+gjorde did
+gick went
+fick got
+gav gave
+hade had
+tog took
+såg saw
+visste knew
+skrev wrote
+åt ate
+drack drank
+sov slept
+blev became
+
+Dagbok
+diary
+
+den 1:a april
+April 1st
+
+Jag heter Andreas.
+My name is Andreas.
+
+Jag har ett hemligt liv så jag började skriva dagbok
+I have a secret life so i started to write a diary.
+
+Jag har en fru som heter Lena och två
+söner, Jonas och Nils
+I have a wife whose name is Lena and two sons jonas and nils.
+
+Jag älskar min familj, men jag träffade en otroligt vacker kvinna för en månad sedan.
+I love my family but i met an incredibly beautiful woman about a month ago.
+
+Jag blev kär i henne direkt
+I fell in love with her immediately.
+
+Vi började dejta förra veckan
+we started dating last week.
+
+Hon vet ingenting om min familj
+she knows nothing about my family.
+
+Borde jag berätta sanningen för Nora?
+Should i tell truth to Nora.
+
+Dessutom blir Lena så besviken på mig. Hjälp!
+Besides lena will be so disappointed in me. help.
+
+Första dejt med Nora:
+First date with Nora.
+
+Jag bokade bord på en fin restaurang
+We booked a table in a fine restaurant.
+
+Jag kom 5 minuter tidigare och väntade på Nora
+I came 5 minutes early and waited for nora.
+
+Hon kom inte i tid, hon var 5 minuter sen
+she didnt come on time, she was 5 mins late.
+
+Vi åt pasta och drack vin
+we ate pasta and drank wine.
+
+Efter restaurangen
+gick vi på bio. Det var romantiskt
+After restaurant, we went to cinema. It was romantik.
+
+Det är viktigt att ha bra vänner
+Its is important to have good friends.
+
+Hej, Lena!
+Hi Lena
+
+Jag har något viktigt att berätta för dig
+I have something important to tell you
+
+Det handlar om Andreas
+Its about andreas.
+
+Ni köpte ett stort hus tillsammans och har två barn men jag tycker inte att han är ärlig
+You bought a bit house together and have two kids but i dont think that he is honest.
+
+Ett nytt, mysigt kafe öppnar på fredag den 10 april och Andreas bokade bord
+a new cozy cafe open on friday on april 10 and andreas booked a table.
+
+Han ska ha fika där med min vän Nora bakom din rygg
+he shall have coffe there with my friend nora behind your back.
+
+Bli inte arg på Nora!
+dont become mad at nora.
+
+Hon visste inte att Andreas hade fru och barn
+she didnt know that andreas had wife and kids.
+
+Hon är en snäll tjej och hon ska göra slut med Andreas på fredag
+she is a nice girl and she will break up with andreas on friday.
+
+Vi planerade den här dejten så att vi kan visa dig sanningen
+we planned this date so that we can show you the truth.
+
+Andreas ljuger!
+Andreas is lying.
+
+Jag finns här för dig om du behöver något
+We are there for you if you need something.
+
+Kram, Maria
+Hugs, Maria
+
+Blommor och flaskor vin
+Flowers and bottle of wine
+
+Noras dagbok, den 16:e mars
+Noras diary , march 16th
+
+Jag träffade en snygg man för två veckor sedan
+I met a handsome man two week ago.
+
+Förra veckan skrev han ett meddelande till mig och sa att han ville träffas
+Last week he wrote a message to me and said that he wants to meet.
+
+Jag svarade att vi kan träffas nästa vecka
+I answered that we can meet next week.
+
+Igår skickade han en blomma till min adress
+yesterday he send flowers to my address
+
+Hur visste han att jag älskar blommor?
+How did he know that i love flowers.
+
+En vecka senare
+A week later.
+
+Allt var perfekt
+Everything was perfect.
+
+Maten var utsökt och vinet var gott
+food was delicious and vine was good.
+
+Vi drack en flaska vin. Jag kan dricka två flaskor men jag vill inte säga det till honom.
+We drank a bottle of wine. I can drink two bottles but i dont want to say that to him.
+
+Vi pratade om vanor och favoritkakor
+we talked about habits and favourite cookies.
+
+----------------------------------------------------------------
+Page 23
+En bil, två bilar
+one car , two cars
+
+Två pojkar leker med bilar i trädgården
+Two boys playing with cars in garden
+
+En pojke, Jonas, bygger
+en bilverkstad av pappas tidningar
+One boy, Jonas, builds a car workshop of papa's newspaper.
+
+Där kan de laga bilar och
+bussar
+There they can repair car and buses.
+
+Hans bror, Nils, leker med Marvel superhjältar
+His brother , Nils, plays with Marvel superheros.
+
+Hans julklappar är alltid figurer
+His christmas presents are always figurenes.
+
+Lena gör två fruktsallader till sina söner
+Lena makes two fruit sallad for his sons.
+
+Det finns bananer och apelsiner
+There are bananas and oranges.
+
+Det är viktigt att äta vitaminer!
+It is important to eat vitamins.
+
+Det är också viktigt att gå på museer.
+Its also important to go to museums.
+
+Därför köper Andreas
+biljetter på nätet just nu
+Therefor andreas is shopping tickets on net right now.
+
+Lena och Andreas vill att Jonas och Nils
+vet många saker.
+Lena and Andreas want Jonas and Nils to know many things.
+
+På så sätt kan de hitta bra jobb och tjäna
+mycket pengar.
+This way they can find good job and earn much money.
+
+Du är frisk!
+You are healthy
+
+Peter pratar med en läkare.
+Peter talks with a doctor.
+
+“Jag har ont i huvudet varje dag”, säger Peter.
+I have pain in head every day, says peter.
+
+“Dricker du tillräckligt vatten?”, frågar läkaren.
+Do you drink enough water, asks doctor.
+
+“Ja, såklart. Två liter varje dag.”
+Yes ofcourse, 2 liters every day.
+
+“Äter du hälsosam mat?”
+Do you eat healthy food ?
+
+“Jag äter tre äpplen om dagen.”
+I eat 3 apples a day
+
+“Jobbar du mycket?”, undrar läkaren
+Do you work a lot, asks doctor.
+
+“Ja, jag har många möten på jobbet.”
+Yes, I have many meetings at job.
+
+“Jag tycker att din huvudvärk beror på stress.”
+I think that your headache is due to stress.
+
+“Vad kan jag göra? Ska jag ta värktabletter?”, frågar Peter.
+what can i do? shall i take pain-tablets(pain killers) , asks peter.
+
+“Nej, ta ledigt från jobbet. Det blir bättre.”
+no take timeoff from job. it becomes better.
+
+Många djur, många problem
+many animals , many problems
+
+Maria och Peter har en dotter som heter Sara.
+Maria and Peter have a daughter whose name is sara.
+
+Hon älskar djur och vill ha många husdjur.
+she likes animals and want to have many pets(house animals)
+
+Hon har två hundar och många
+fiskar men hon vill också ha flera katter och kaniner.
+She has two dogs and many fishes but she also want to have sevaral cats and rabbits.
+
+Mamma och pappa säger att hon måste välja bara ett husdjur men hon
+kan inte.
+Mom and dad says that she must just choose one pet but she can not.
+
+“De kan ha ett rum i huset och då blir det inga problem”,
+föreslår Sara.
+They can have a room in house and then there wont be able problem, suggests sara.
+
+“Vi har inte så många rum i huset! Och vad ska de äta?”, säger
+de.
+we dont have so many rooms in house. and what will they eat, they say
+
+“De kan äta mina hamburgare! Jag ska bli vegan!”
+They can eat my hamburger. i will become vegan.
+
+Det är spännande att
+spendera pengar!
+It is exciting to spend money.
+
+Maria och Nora är i ett köpcentrum.
+Maria and Nora are in a shopping center.
+
+De köper nya kläder.
+they buy new cloths.
+
+Maria har många gamla klänningar hemma men hon köper
+en ny klänning
+maria has many old dresses at home but she buys a new dress.
+
+Nora köper ett par fina läderskor
+Nora shops a pair of fine leather shoes.
+
+De var dyra förra veckan men nu är de på rea med 50% rabatt så
+de är billiga
+They were expensive last week but now they are on sale with 50% discount so they are cheap.
+
+Maria och Nora följer mode och köper
+moderna väskor också
+Maria and Nora follow fashion and shop modern bags too.
+
+Nora: Vad tycker du om den här svarta modellen?
+Nora: what do you think of this black model.
+
+Maria: Den går bra med din vita skjorta!
+Maria: It goes good with your white shirt.
+
+Nora: Borde jag köpa en svart jacka också?
+Nora: Should i buy a black jacket too.
+
+---------------------------------------
+Page 27
+
+Inköpslista
+Shopping list
+
+Peter är på en mataffär
+Peter is at a grocery store.
+
+Han ska laga middag ikväll
+så han köper ingredienser
+He will cook dinner in the evening so he shops ingredients.
+
+Han måste också köpa
+saker som är slut.
+He must also shop things which are out of stock.
+
+Här är hans lista
+Here is his list.
+
+en burk tomatsås: a can of tomato
+två kilo mjöl: 2 kg flour
+tre paket mjölk: 3 pack milk
+fyra hekto svamp: 4 hectogram mushrooms
+fem hekto lök: 5 hectogram onions
+sex bananer: 6 banana
+sju hekto ost: 7 hectoogram cheese
+åtta flaskor jus: 8 bottle juice
+nio korvar: 9 sausages
+tio toarullar: 10 toilet rolls.
+elva potatisar: 11 potatos
+tolv påsar godis: 12 bags of candies.
+
+Familjen
+The family
+
+Peter och Maria är gifta och har två döttrar, Sara och
+Jenny
+Peter and Maria are married and have two daughters sara and jenny
+
+De var sambo i många år men de gifte sig för
+åtta år sedan
+They were partners many years but they married themselves 8 years ago.
+
+Peter är 45 (fyrtiofem) år gammal och Maria är 42 (fyrtiotvå)
+Peter is 45 years old and maria is 42 years old.
+
+Sara är 15 (femton) och Jenny
+är 9 år.
+sara is 15 years old and jenny is 9 years old.
+
+Lena och Andreas har två söner, Nils och Jonas, som
+går i grundskolan.
+Lena and Andreas have two sons, nils and jonas , who go in primary school.
+
+Andreas föräldrar är deras farmor och farfar.
+andreas parents are their grandmother and grandfather.
+
+Lenas föräldrar är deras mormor och morfar
+lenas parents are their grandmother(mothers side) and grandfather.
+
+De är mycket gamla, ungefär 70 (sjuttio) år
+they are much old, around 70 years old.
+
+Sofias mamma, Ingrid, är singel.
+Sofias mom, ingrid is single.
+
+Nora har inga barn för hon är
+ung
+Nora doesnt have children as she is young.
+
+Hon är 32 (trettiotvå)
+år.
+She is 32 years old.
+
+Dessutom gillar hon
+att vara barnfri.
+Plus, she likes being childfree.
+
+Hur gammal är du?
+how old are you?
+
+Page 29 numbers and ordinals.
+
+Jag blev kär i
+I fell in love with.
+
+Klockan är fem prick, jag tänker på henne
+It is 5 o clock. i think of her.
+
+Fem i sex, Kvart i sex, Halv sex
+five mins to 6, quarter to six, half to 6(30 mins to 6)
+
+Tio över fem, Kvart över fem
+5:10, 5:15
+
+Jonas blev kär i en skolkamrat
+Jonas fell in love with a schoolmate
+
+Han tänker på henne hela
+tiden.
+He thinks about her all the time.
+
+Han är alltid glad när han tänker på henne
+he is always happy when he thinks about her.
+
+Han tittar ofta på henne i klassrummet.
+he often looks at her in classroom
+
+Ibland köper han choklad till
+henne.
+Sometimes he buys chocolate for her.
+
+Hon märker det ibland
+She notices it sometimes.
+
+De träffas sällan under
+sommarlovet.
+They rerely meet during summer holiday.
+
+Hon messar aldrig på sociala medier
+She never posts on social media.
+
+Vad har ni för väder?
+What kind of weather we have?(what have we for weather)
+
+växlande molnighet
+variable cloudiness
+
+vinden blåser
+wind is blowing
+
+der är dimma
+there is fog.
+
+det snöar
+it is snowing.
+
+det är mulet
+its cloudy
+
+solen skiner
+sun is shining
+
+det är molnigt
+there are clouds. its cloudy
+
+det regnar
+its raining.
+
+en regnbåge
+a rainbow.
+
+det åskar
+its thundering.
+---------------------------------------------------------
+page 33
+Skvaller
+Gossip
+
+Maria visar vad hon köpte när hon var ute med Nora
+maria shows what she shopped when she was out with nora.
+
+Maria: Jag köpte nya löparskor till dig eftersom du måste
+motionera lite mer.
+Maria: i shopped new running shoes for you because you must exercise little more.
+
+Till Jonas köpte jag leksaksbilar för 99 euro.
+for jonas i shopped toy cars for 99 euros.
+
+Nils fick två nya figurer som var på rea med 50% rabatt
+Nils got 2 new figurene which were on sale with 50% discount.
+
+Peter: Löparskorna är jättefina, tack så mycket!De passar mig
+perfekt.
+Peter: Running shoes are great, thank you so much. They fit me perfectly.
+
+Men leksaksbilarna var lite dyra...Varför var figurerna
+på rea?
+But toy cars were a little expensive.why were figurene on sale.
+
+Förresten, fick du mina meddelanden om Andreas?
+By the way, did you get my messages about andreas.
+
+Maria: De är gamla modeller så de var billigare. Det fanns många
+barn som ville ha dem. Ja, jag fick meddelandena och jag
+känner hans älskarinna.
+Maria: they are old model so they were cheaper. there were many
+children who wanted to have them . yes i got messages and i know his mistress.
+
+Peter: Nähä! Barnen leker ute just nu, berätta!
+Peter: Hey. Kids are playing out right now, tell me.
+
+Maria: Hon är...
+Maria: She is...
+
+Vill du gå på bio
+med mig?
+Do you want to go to cinema with me.
+
+Ingrid: Sofia, hör du mig? Skynda dig! En taxi väntar på oss!
+Ingrid: Sofia, do you hear me. hurry yourself. a taxi is waiting for us.
+
+Sofia: Förlåt mamma! Jag är klar om 5 minuter.
+Sofia: Sorry mom. i am ready in 5 mins.
+
+Ingrid: Jag ska ringa Peter och berätta för honom att vi blir lite
+sena.
+Ingrid: I shall ring peter and tell him that we will be little late.
+
+Sofia: Tack! Jag messade Sara, jag har inte tid att ringa henne nu.
+Sofia. Thanks . I messaged sara. i didnt have time to ring her now.
+
+Lite senare, framför bion
+little later, in front of cinema.
+
+Ingrid: Jag ser dem! Där står Peter och Sara och väntar.
+Ingrid: I see them. there are stading peter and sara waiting.
+
+Sofia: Hej Sara! Hej Peter! Hur är det?
+Sofia: Hey sara. he peter. how are you
+
+Sara: Det är okej men vi väntade så länge på er... Ni är mycket
+sena! Filmen börjar om 5 minuter!
+Sara: Its ok but we waited so long for you. you are much late. film starts in 5 mins.
+
+Sofia: Förlåt!
+Sofia: Sorry.
+
+Bättre än Barbie
+Better than Barbie
+
+Sofia och Sara pratar efter filmen.
+Sofia and Sara and talking after the film.
+
+Sara: Den här filmen var så rolig - roligare än Barbie!
+sara: this film was so funny. funny than barbie.
+
+Sofia: Jag håller med dig, filmen är rolig, men Barbie är roligast!
+Sofia: I agree with you , film is funny but barbie is the funniest.
+
+Sara: Ja, Barbie är bra men det finns många bättre filmer. Den är
+kanske bäst för dig men inte den bästa i världen.
+Sara: yes, barbie is good but there are many better films. it is may be best for you but it is not best in the world.
+
+Sofia: Men tycker du inte att filmen var kort? I alla fall var den
+kortare än filmen vi tittade på förra veckan.
+Sofia: But dont you think that film was short. Atleast it was shorter than the film
+we watched at last week.
+
+Sara: Ja, det kan vara så. Men såg du hur snygga skådespelarna
+var? Jag tycker att AB var snyggare i hans tidigare filmer men CD
+var snyggast i den här!
+Sara: yes, it can be so. but did you see how goodlooking actor was? i think that AB was better looking in his previous films but CD was better looking in this one.
+
+Sofia: Jag håller inte med. CD hade en tråkigare roll i den här
+filmen. I den andra var han inte så tråkig.
+Sofia: I dont agree with you. CD has a boring role in this film. In that one he was not so boring.
+
+Sara: Det är inte det jag menar...
+Sara: That is not what i mean...
+----------------------------------------
+Page 36
+dålig: poor
+
+Positive comparitive superlative
+bra,bättre,bäst
+dålig,sämre,sämst
+gammal,äldre,äldst
+ung,yngre,yngst
+liten,mindre,minst
+stor,större,störst
+lång,längre,längst
+mycket,mer,mest
+många,fler,flest
+
+Veckodagar
+days of week
+
+Peter och Andreas sitter på ett kafe och diskuterar.
+Peter and andreas are sitting at a cafe and discussing.
+
+Andreas: Vad gjorde du förra veckan?
+andreas: what did you do last week.
+
+Peter: Jag hade så mycket att göra i måndags på
+journalistikkursen.
+Peter: I has so much to do on monday at the journalist course.
+
+Jag var så trött att jag glömde min
+kamera i tisdags.
+I was so tired that i forgot my camera on tuesday.
+
+Det var så pinsamt! En fotograf utan kamera!
+It was so embarassing. A photofrapher without a camera.
+
+I onsdags hade Maria och jag en lägenhetsvisning
+On wednesday Maria and I had an apartment viewing.
+
+Det var en mycket fin trerummare, ljus och nyrenoverad.
+It was a very nice 3 room apartment, bright and newly renovated.
+
+I torsdags var det Marias
+födelsedagsfest och vi hade många gäster.
+On thursday it was Marias birthday party and we had many guests.
+
+Jag åkte på
+affärsresa i fredags, hade många möten i lördags och kom
+tillbaka i söndags
+I went at a business trip on friday , had many meetings on saturday and came bak on sunday.
+
+Vad gjorde du i helgen?
+What did you do on weekend.
+
+Andreas: Jag vilade hela helgen. Men nästa vecka har jag
+så mycket för mig. På måndag har jag ett viktigt möte med
+chefen och på tisdag har min son en viktig hockeymatch.
+På onsdagar tränar jag alltid på gymmet. Och på lördag har
+jag en dejt...
+Andreas. I rested whole weekend. But next week i have
+so much for myself. on monday i have an important meeting with
+boss and on tuesday my son has an important hokeymatch.
+on wednesday i always workout at gym. and on saturday i have a date...
+
+Jag kan inte sova!
+I can not sleep.
+
+Lena är nervös och stressad. Därför kan hon inte sova.
+Lena is nervous and stressed. Therefore she can not sleep.
+
+Hon jobbade hemifrån idag och drack en kopp kaffe klockan 8 på
+kvällen.
+She worked from home today and drank a cup of coffee at 8 pm in the evening.
+
+Läkaren sa att det var dåligt att dricka kaffe på
+kvällen.
+Doctor said that it was bad to drink coffee at evening.
+
+Hon borde lyssna på läkarens råd men ibland är det
+svårt.
+She should listen at doctors advice but sometimes it is difficult.
+
+Hon borde träna mer och hon borde äta mer frukt
+istället för choklad
+She should excercise more and she should eat more fruit instead of chocolate.
+
+Hon vet allt detta men hon tycker att det är
+jobbigt
+she knows all that but she thinks that its annoying.
+
+Klockan är 11 på natten och hon hör musik från Jonas rum. Hon
+kommer in och säger: “Du får inte lyssna på musik så högt mitt
+i natten. Grannarna gillar inte det.”
+Its 11oclock at night and she heard music from jonas room. She
+comes in and says: you can not listen to music this loud in the middle of night. neighbours do not like it.
+
+“Måste jag sluta lyssna på musik?”, frågar Jonas.
+Must i stop listening to music, asked jonas.
+
+“Nej, du behöver inte göra det. Du kan använda hörlurarna vi
+köpte förra veckan.”
+No, you dont have to do it. You can use the headphones we bought last week.
+
+“Får jag dricka lite kaffe? Jag tänkte göra hemläxorna i natt.”
+Can i drink little coffee. I thought to do my homework tonight.
+
+“Nej, barn får inte dricka kaffe. Dessutom behöver du inte
+göra läxorna nu. Imorgon är det lördag. God natt, sov gott!”
+No children can not drink coffee. Besides you dont need do homework now. tomorrow it is
+saturday. good night , sleep well.
+
+Klagomål
+Complaint
+
+Peter köpte en ny bärbar dator till Jonas för några dagar
+sedan men datorn fungerar inte.
+Peter bought a new laptop computer for jonas a few days ago but laptop doesnt work.
+
+Något är fel med laddaren.
+Dessutom finns det en repa på skärmen. Peter skriver ett
+mejl till kundtjänsten.
+Something is wrong with charger.
+Besides there is a scratch on screen. Peter writes a mail to customer service.
+
+Email
+“Hej,
+Jag skriver eftersom jag är mycket besviken på produkten
+jag köpte från er. Det är en bärbar av märket HP från deras
+Elitebook serie. Något är fel med laddaren. Dessutom finns
+det en repa på skärmen. Kan ni laga datorn eller ge pengarna
+tillbaka? Garantin gäller fortfarande. Kvittot är bifogat.
+Tack på förhand!
+Vänliga hälsningar,
+Peter Malmgren”
+
+Hey
+I write because I am much disappointed with the product
+i bought from you. it is a laptop from HP from their
+Elitebook series. Something is wrong with the charger. Besides
+there is a scratch at screen. can you fix the computer or give
+me refund. Guarentee is valid Reciept is attached.
+Thanks in advance.
+Best regards
+Peter Malmgren.
+
+-----------------------------------------------------
+Page 40
+Vägbeskrivning
+Directions
+
+Andreas: Hej Google, hur kan jag gå till den nya
+sushirestaurangen?
+Andreas: Hey Google, how can i go till the new shushi restaurant.
+
+Google: Gå ut från huset och sväng till vänster. Gå rakt fram och
+ta den andra gatan till höger
+Google: Go out from house and turn towards left. go straight ahead and
+then take second road towards right.
+
+Du går förbi en sjö och ser en
+hamburgerställe på din vänstra sida
+you go past a lake and see a hamberger stall towards your left side.
+
+Sedan går du rakt fram och efter två
+korsningar ser du sushirestaurangen på din vänstra sida. Det
+tar 40 minuter att gå dit.
+Then you go straight and after two intersections you see the shushi restaurant towards our left side.
+IT takes 40 mins to go there.
+
+Andreas: Det låter komplicerat.
+Andreas: That sounds complicated.
+
+Google: Du kan också åka buss. Först tar du buss nummer 5
+som går från hållplatsen Glass. Vid hållplatsen
+Rött hus måste du byta till
+buss nummer 7. Gå av efter
+två stationer. Gå rakt fram
+i 200 meter.
+Google: You can also take bus. First you take bus number 5
+which goes from stop Glass. At stop Red ouse you must change to bus number 7.
+Get off after two stops. Go straight ahad for 200 meter.
+
+Andreas: Oj... jag vill inte
+äta sushi längre.
+Andreas: Ohh..I dont want to eat shushi anymore.
+
+Din fru och
+hennes vän
+Your wife and his friend.
+
+Andreas och Peter tränar på gymmet.
+Andreas and Peter are training at gym.
+
+Peter: Förut var jag en soffpotatis men nu älskar jag att träna!
+peter: previously i was a couch potato but now i like working out
+
+Min kropp känns mycket friskare, mitt humör är bättre och mina
+muskler är större!
+my body feels much healthier , my mood is better and my muscles ar bigger
+
+Andreas: Ja, att träna är bra för din hälsa men också för ditt
+förhållande med din fru.
+Andreas: Yes, exercising is good for your health but also for your relationship with your wife.
+
+Dina barn ser upp till dig också! På tal om
+din fru.
+Dina barn ser upp till dig också! På tal om
+din fru.
+
+Är det sant att Nora är hennes vän? Jag är rädd för
+hennes tankesätt eftersom hennes ord kan förstöra mitt
+äktenskap.
+Is it true that Nora is her friend? I am afraid of her mindset because her words could destroy my marriage.
+
+Peter: Det här är ditt eget fel.
+peter: this here is your own mistake
+
+Nora och Maria är på yogapass. De diskuterar Andreas, hans familj,
+hans beteende och hans lögner.
+Nora and Maria are at a yoga class. They discuss Andreas, his family, his behavior and his lies.
+
+Nora: Vi diskuterade aldrig vår framtid och vårt förhållande. Våra
+dejtar är fina men jag tänker hela tiden på hans familj. Vi måste
+säga sanningen till dem.
+Nora: We never discussed our future and our relationship. Our dates are nice but I keep thinking about his family. We have to tell them the truth.
+
+Maria: Jag har en plan. Jag kan säga till Lena när och var er nästa
+dejt är. Då får hon se ert förhållande och era känslor.
+Maria: I have a plan. I can tell Lena when and where your next date is. Then she will see your relationship and your feelings.
+
+Nora: Jag känner mig dåligt på grund av deras familj. Deras
+äktenskap är kanske slut men deras barn...
+Nora: I feel bad for their family. Their marriage may be over, but their children...
+
+Något eget
+something of your own
+
+Nils och Jonas leker med sina leksaker. Nils oroar sig eftersom
+Jonas tog hans hjältefigur och satte den i sin bil. Nils gillar inte
+när Jonas leker med hans leksaker istället för sina egna. Jonas
+tar bra hand om sina leksaker men inte om hans leksaker. Nils
+kan inte förstå sin bror. Nils är försiktig när han tar hans bilar,
+lika försiktig som med sina figurer.
+Nils and Jonas are playing with their toys. Nils is worried because
+Jonas took his hero figure and put it in his car. Nils doesn't like
+when Jonas plays with his toys instead of his own. Jonas
+takes good care of his toys but not his toys. Nils
+can't understand his brother. Nils is careful when he takes his cars,
+just as careful as he is with his figures.
+
+Deras skrivbord är också mycket olika. Nils har inte så många
+saker på sitt skrivbord, han är prydlig. Jonas har jättemånga
+saker på sitt bord, han är slarvig. En gång försökte Nils städa
+hans bord men Jonas blev mycket arg. Han gillar inte när
+någon annan flyttar hans saker. Efter detta städar Nils bara sitt
+eget skrivbord.
+Their desks are also very different. Nils doesn't have many things on his desk, he is neat. Jonas has a lot of things on his desk, he is sloppy. Once Nils tried to clean his desk, but Jonas got very angry. He doesn't like it when someone else moves his things. After that, Nils only cleans his own desk.
+
+Jag har en plan för nästa år. Först ska jag plugga
+svenska så att jag får bra betyg och klarar testet.
+Sedan ska jag fira mina resultat med mina vänner.
+Vi ska gå ut och äta god mat. Efter detta börjar
+sommaren och jag ska åka på semester!
+I have a plan for next year. First I shall stugy swedish so that i get good grades
+and clear test.
+Then i shall celebrate my result with my friend.
+we shall go out and eat good food. After that starts summer
+and i shall go to vacation.
+
+Vad kommer att hända nästa år? Jag
+är osäker. Nästa år fyller jag 30.
+Kanske kommer jag att skaffa nya
+vänner eller byta jobb? Jag planerar
+en resa till Maldiverna. Det kommer
+att bli roligt, hoppas jag.
+What will happen(come at hand) next year. I
+am unsure. Next year i become 30 years old.
+maybe i will make new friends or change job. I am planning to travel
+ to maldives. I hope, it will be fun.
+
+Nästa år tänker jag inte sitta hemma. Jag
+tänker det skulle bli fint om jag skaffade mig
+en ny hobby. Nästa år är mitt år!
+I think that next year i am not sitting at home. i think
+it will be nice if i got myself a new hobby. next year is my year.
+
+Tror du på mig?
+Do you believe in me.
+
+Sara tränar fotboll. Hon tycker att det är spännande men
+hennes vänner säger att det är bättre att gå en danskurs.
+Sara is training football. She think that its exciting but
+her friends say that its better to go to a dancecourse.
+
+Sara vet inte hur en danskurs ser ut men hon tror att det
+också måste vara intressant.
+Sara doesnt know how a dancecourse looks like but she believe that it must
+also be intersting.
+
+“Tro inte på allt de säger. Jag hade samma erfarenhet när
+jag var tonåring och tränade hockey”, sa mamma.
+Dont believe at all they say. I had same experience when i was a teenager
+and training hockey, says mama.
+
+Jag träffade din pappa på hockey. Därför tycker jag att dina
+vänner är svartsjuka. De vill också bli vänner med
+pojkarna.
+I met your father at hocky. Therefor i think that your friends
+are jealous. They also want to become friends with the boys.
+
+Sara tror inte på det. Hon tror att mamma är lite subjektiv
+men hon kan inte vara säker. Mamma har
+oftast rätt men Sara kan inte sluta tänka
+på det.
+Sara doesnt believe in it. She believes that mamma is little subjective
+but she cant be sure. mamma is often right but sara can not stop thinking
+about it.
+
+Vad kommer att hända nu?
+What will happen now ?(What comes to happen now)
+
+Vad hände med Nora? Är ni nyfikna?
+What happened with nora. are you curious?
+
+Hon gjorde slut med Andreas och bestämde sig för att
+hitta kärlek på nätet istället. Hon tittar på olika profiler på
+en app och letar efter någon som verkar vara ärlig, social
+och tålmodig.
+She broke up with Andreas and decided herself to find love on internet instead.
+she looks at different profiles on an app and look for someone who seems honest,social
+and patient.
+
+Tror ni att hon kommer att hitta en sådan person?
+Är det möjligt att hitta en ideal partner på nätet?
+Hurdan ska en ideal partner vara, enligt er?
+Har ni några råd till Nora?
+Do you believe that she can find such a person?
+Is it possible to find an ideal partner online?
+how shall an ideal partner be, in your opinion.
+do you have some advice for nora.
+
+Dela gärna era tankar.
+Please share your thoughts.
+
+-----------------------------------
+Page 48
+Har du varit i Sverige
+någon gång?
+Have you ever been to Sweden.
+
+Jag har bott i Sverige i fem år
+I have lived in Sweden for 5 years.
+
+Jag flyttade hit för fem
+år sedan, när jag fick ett toppjobb på ett svenskt
+företag
+I moved here 5 years ago when i got a top job at a swedish firm
+
+Jag har ätit så mycket svenskt godis sedan
+dess och testat olika lokala maträtter
+I have eaten so much swedish sweets since then and tasted different local dishes.
+
+Jag har aldrig
+varit på älgsafari men jag har ofta sett älgar på mina
+semestrar
+I have never been on a moose safari but i have often seen moose on my holiday.
+
+Vi har just renoverat vår sommarstuga
+men vi har ännu inte badat i sjön framför stugan
+eftersom vädret har varit så kallt den här veckan
+We have just renovated our summer cottage but we have not yet swam i lake infront of cottage
+because weather has been so cold this week.
+
+Har du varit i Sverige någon gång?
+Have you ever been in sweden.
+
+En lista på
+starka verb
+a list of strong verbs.
+
+är,var,varit,is/are,was/were,been
+vill,ville,velat,want,wanted,wanted
+kan,kunde,kunnat,can,could,been able to
+säger,sa,sagt,say,said,said
+kommer,kom,kommit,come,came,come
+gör,gjorde,gjort,do/make,did/made,done/made
+går,gick,gått,go/walk,went,gone/walked
+får,fick,fått,get/may,got/might,got/been allowed to
+ger,gav,givit,give,gave,given
+har,hade,haft,have,had,had
+tar,tog,tagit,take,took,taken
+ser,såg,sett,see,saw,seen
+vet,visste,vetat,know,knew,known
+skriver,skrev,skrivit,write,wrote,written
+äter,åt,ätit,eat,ate,eaten
+dricker,drack,druckit,drink,drank,drunk
+sover,sov,sovit,sleep,slept,slept
+blir,blev,blivit,become,became,become
+
+Skolan
+School
+
+Jonas: Mamma, pappa, var ni bra elever i skolan?
+Jonas: Mom, dad, were you good student in school.
+
+Andreas: Ja, förstås! I förskolan sa min lärare att jag var
+den bästa i klassen och i grundskolan hade jag höga
+betyg.
+Andreas: Yes of course. In preschool my teacher said i was the best in the class and
+in elementary school i had high grades.
+
+Lena: Jag pluggade inte så mycket på gymnasiet men jag
+var bra på ämnen som matte och fysik så jag kom in på
+KTH.
+Lena: I didnt not sudy so much in highschool but i was good
+at subject as maths or physics so i got in KTH.
+
+På universitetet blev jag en plugghäst för lärarna var
+mycket stränga. Det var väldigt svårt men till slut tog jag
+examen och hittade mitt jobb. Tänker du redan på
+universitet, Jonas?
+In university i become a nerd as teachers were much strict. I was really difficult but in the end i
+graduated and found my job. are you already thinking about univeristy jonas?
+
+Jonas: Ja. Jag vill komma in på ett bra universitet eller ta
+ett sabbatsår efter studenten. Pappa, du tog ett
+sabbatsår. Kan du ge mig råd?
+Jona: yes, i want to come in a good university or take a sabatical after graduation. papa,
+you took a sabatical. can you give me advice.
+
+Andreas: Usch... Jag gjorde det eftersom mina
+klasskompisar mobbade mig
+Andreas: Ugh. I did it because my classmates bullied me.
+
+Jobbar du för mycket?
+Are you working too much.
+
+Andreas jobbar som advokat på ett kontor mitt i stan
+Andreas works as advocate at an office in the middle of town
+
+Han jobbar ofta över men han har en hög lön.
+He often works overtime but has a high salary.
+
+Hans arbetsgivare sa till honom att han kan bli chef nästa
+månad.
+His employer said to him that he can become boss next month.
+
+Då kommer han att ha mycket mer ansvar.
+Then he will have much more responsibility.
+
+De andra anställda tycker om Andreas så han är ganska
+säker att han kommer att prestera bra som chef.
+Other employees like Andreas so he is quiet sure that he
+will perform well as manager.
+
+Lena älskar sitt jobb och var mycket glad när hon började
+jobba igen efter mammaledigheten.
+Lena loves her job and was much glad when she started job again after parentalleave.
+
+Hon jobbar heltid
+men kan spendera mycket tid med barnen eftersom
+Andreas hyrde en städare för att underlätta deras
+hemarbetsbörda.
+She works fulltime but can spend more time with children because
+Andreas hired a cleaner to lighten their homeworkload.
+
+Lenas mamma ska gå i pension nästa år. Nu vill hon byta
+till deltid eftersom hon har för många arbetsuppgifter
+och tror att hon kommer att bli utbränd
+Lenas mother will retire next year. Now she want to work parttime
+because she has many tasks and believes that she will burnout.
+
+Om det händer
+blir hon sjukskriven. Hon vill tjäna lite extra pengar men
+hälsan kommer först.
+If that happen she will be on sick leave. she want to earn some more money but health
+comes first.
+
+Balansen
+The balance
+
+Marias jobb är inte välbetalt men det är roligt.
+Marias job is not wellpaid but its fun.
+
+“Man presterar inte om man inte gillar jobbet”, brukar hon säga
+You dont perform if you dont like your job, she often says.
+
+Hon tycker också att hennes mentala hälsa är viktig och
+därför vill hon inte ha ett stressigt jobb
+She also thinks that her mental health is important and therefor she doesnt want
+a stressful job
+
+Hon är nöjd med
+sitt trygga jobb på en statlig myndighet och hon lär sina
+barn att pengar inte kan köpa allt i livet.
+She is happen with secure job at a govenment agency and she teaches  her children that money
+cant buy everything in life.
+
+Maria brukar säga att hennes man Peter är
+arbetsnarkoman eftersom han inte slutar med jobbet när
+han kommer hem.
+Maria often says that her man Pater is workoholic because
+he doesnt stop working when he comes home.
+
+På sitt tidigare jobb hade han en giftig
+arbetsmiljö så han blev tvungen att säga upp sig.
+At his previous job he had a toxic workenv so he was forced to resign.
+
+Efter
+detta startade han eget och därför jobbar han så mycket
+After that he started his own and therefor he works so much.
+
+Det är inte lätt att vara entreprenör! Han tänker på jobbet
+hela tiden.
+Its is not easy to become enterpreneur . he thinks about work
+all the time.
+
+Maria tycker att det inte är bra för hälsan. “Det
+var bättre när han var arbetslös”, säger hon till Lena.
+Maria thinks that its not good for health. It was better
+when he was unemployed, says her to lena.
+
+
+--------------------------
+PAge 53
+Restaurang
+Restaurant
+
+Servitör: Vad vill ni dricka?
+Waiter: What do you want to drink?
+
+Nora: Jag tar ett glas vin.
+Nora: I take a glass of wine.
+
+En ogift man: Jag dricker inte alkohol. Ett glas citronsaft, tack.
+Och kan ni sänka musiken lite?
+An unmarried man: I dont drink alchohol. A glass of lemon juice please.
+And can you turn down the music plz.
+
+lite senare
+little later
+
+Servitör: Är ni redo att beställa?
+Waiter: Are you ready to order
+
+Nora: Har ni några veganska alternativ?
+Nora: Do you have any vegan option.
+
+En ogift man: Jag tål inte gluten, vad kan du rekommendera
+då? Och kan vi byta bord? Det finns barn som skriker vid bordet
+bredvid oss.
+An unmarried man: I cant tolerate glutin, what an you recommend then. and can
+we change table. there are children who are screaming at table next to us.
+
+lite senare
+little later
+
+Servitör: Smakar maten bra?
+Waiter: Does the food taste good.
+
+Nora: Ja, det var urgott! Kan vi få notan?
+Nora: Yes, it was delicious. can we get bill
+
+En ogift man: Hur mycket ska
+vi dricksa?
+An unmarried man: How much shall we tip.
+
+Boende
+Accomodation
+
+Jag vill gärna hyra en lägenhet på två rum och kök
+med stora fönster och mycket ljus. Jag har ett barn
+så jag vill gärna att lägenheten är på gångavstånd till en skola
+och till några affärer eftersom jag inte har någon bil
+I would like to rent an apartment with two room and kitchen with
+large windows and much light. i have a child so i would like that apartment
+is at walking distance to a school and some shop because i dont have any car.
+
+En balkong med utsikt över en park blir också bra men det är inget
+måste. Min budget är _____ euro per månad.
+A balcony with view over a park would also be nice but its not must.
+My budget is _ euro per month.
+
+Jag vill köpa ett hus på landet på 80 kvm. Jag vill ha en stor
+trädgård där jag kan odla olika växter och där min hund kan
+springa runt. En bastu är ett måste för mig. Huset kan vara
+ett renoveringsobjekt – jag har tid att renovera eftersom jag
+är pensionär och dessutom är det billigare!
+I want to buy a house in the country of 80 sq meters. i want to have a big
+gargen where i can grow different plants and where my dog can run around . a sauna is must for me.
+house can be a renovation objet. i have time to renovate because i am
+pensioner and besides it is cheaper.
+
+Jag letar efter en nyrenoverad
+studiolägenhet. Stadsdelen är
+inte så viktig eftersom jag
+jobbar hemifrån men jag
+behöver ett tyst område med
+mycket natur omkring så att
+jag kan motionera och
+hantera min stress.
+i am looking for a renovated studioapartment. neighbourhood is not so impportant
+because i work from home but i need a quiet area with much nature around so that i can exercise and
+handle my stress.
+
+Miljö
+Environment
+
+Peter: Hur var det i skolan, sötnos?
+Peter: How was it in school, sweety.
+
+Jenny: Idag lärde vi oss om miljön!
+Jenny: Today we learned ourselves about environment.
+
+Peter: Verkligen? Vad fint!
+Peter: Really. how nice.
+
+Jenny: Visste du att det är så varmt på sommaren
+eftersom människor har för många bilar? Bilar släpper ut
+koldioxid och det skadar miljön.
+Jenhy: Did you know that it is so warm in summer because
+people have many cars . cars release out carbondioxide and that harms environment.
+
+Peter: Ja, klimatförändringar är en viktig fråga.
+Peter: Yes climate change is an important question.
+
+Jenny: Läraren sa att vi måste sopsortera och återvinna
+för att skydda miljön. Och sluta köpa så mycket plast! Jag
+måste säga till mamma att sluta beställa så mycket på
+nätet också.
+Jenny: Teacher said that we must sort and recycle to protect environment. And stop shopping
+so much plastic. I must tell mamma to stop ordering so much on net also.
+
+Peter: Vilken bra idé!
+Jenny: Och Sara och jag blir veganer!
+Peter: What a nice idea.
+Jenny: And sara and i are becoming vegan.
+
+Peter: Men du älskar kött...
+Jenny: Men närproducerat kött
+kan man väl äta? Det har
+en mindre miljöpåverkan...
+Peter: But you love meat
+Jenny: But can you eat locally produced meat.
+it has smaller environment impact.
+---------------------------------------------
